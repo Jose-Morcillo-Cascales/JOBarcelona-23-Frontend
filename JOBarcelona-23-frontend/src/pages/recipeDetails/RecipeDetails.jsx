@@ -1,5 +1,3 @@
-
-
 const RecipeDetails = () => {
   return (
     <div>RecipeDetails</div>
